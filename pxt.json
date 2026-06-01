@@ -1,5 +1,6 @@
 {
     "name": "Power Funtions",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
